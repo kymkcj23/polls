@@ -1,0 +1,9 @@
+/*polls/static/polls/style.css*/
+body {
+    background: white url("images/djGirls.png") no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+}
+li a {
+    color: green;
+}
